@@ -1,7 +1,6 @@
 # Marcin Gwiazda's Data Analyst Portfolio Projects
 
 ## NBA Shooting Evolution (Pandas)
-# Basketball Data Analysis (Python / Pandas)
 
 A small data analysis project exploring basketball statistics using Python and Pandas.
 
