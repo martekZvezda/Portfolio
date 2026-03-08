@@ -25,4 +25,17 @@ A small data analysis project exploring basketball statistics using Python and P
 - exploratory data analysis
 
 ## Victims of Homicides and Non-Fatal Shootings in the City of Chicago (PostgreSQL)
+
+SQL Practice Project
+
+Small SQL project created as part of my learning process.
+
+The goal was to practice:
+- basic SQL queries
+- filtering and aggregating data
+- working with structured datasets
+
+Technologies:
+SQL
+
 This project is based on the [dataset](https://catalog.data.gov/dataset/violence-reduction-victims-of-homicides-and-non-fatal-shootings) regarding victims of homicides and non-fatal shootings in the Chicago area, published by the City of Chicago. The data has been slightly cleaned using Pandas and then divided using Microsoft Excel.
